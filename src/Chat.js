@@ -20,7 +20,7 @@ function Chat() {
         </div>
 
         <div className="chat__input">
-            <AddCircleIcon fontsize="large" />
+            <AddCircleIcon fontSize="large" />
             <form>
                 <input placeholder={"Message #TESTCHANNEL"}/>
                 <button className="chat__inputButton" type="submit">
@@ -29,9 +29,9 @@ function Chat() {
             </form>
 
             <div className="chat__inputIcons">
-                <CardGiftcardIcon fontsize="large" />
-                <GifIcon fontsize="large" />
-                <EmojiEmotionsIcon fontsize="large" />
+                <CardGiftcardIcon fontSize="large" />
+                <GifIcon fontSize="large" />
+                <EmojiEmotionsIcon fontSize="large" />
             </div>
         </div>
         

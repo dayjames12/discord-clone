@@ -36,10 +36,18 @@
     flex: 1;
 }
 
+.chat__input > .MuiSvgIcon-root:hover {
+    color: white;
+}
+
 .chat__inputButton {
     display: none;
 }
 
 .chat__inputIcons > .MuiSvgIcon-root {
     padding: 5px;
+}
+
+.chat__inputIcons > .MuiSvgIcon-root:hover {
+    color: white;
 }
